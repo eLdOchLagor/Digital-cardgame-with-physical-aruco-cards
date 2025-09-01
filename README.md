@@ -2,6 +2,15 @@
 
 # Digital Cardgame with Physical ArUco-Cards
 
+### Project was made by:
+* Ludwig Boge
+* Emil Larsgärde
+* Jonatan Ebenholm
+* Gayathri Naranath
+* Gustaf Kronholm
+* Armen Abedi
+* Mirijam Björn
+
 This is a bachelors project at LIU. The goal of the project was to investigate what effect physical playing cards would have on interactivity and player engagement compared to having digital cards.
 The game was to be played on a flat laying touchscreen by two competing players, one on each side of the screen. A webcam in the ceiling was to read the position of the cards on the screen and the type of card and then make something happen in the game.  
 
