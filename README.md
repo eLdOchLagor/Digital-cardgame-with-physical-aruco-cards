@@ -1,7 +1,5 @@
 ![An image of the game](/Kandidatprojekt/big_thumbnail.jpg)
 
-*[Link to GitHub Repository](https://github.com/eLdOchLagor/TNCG15-Monte-Carlo-Pathtracer)*
-
 # Digital Cardgame with Physical ArUco-Cards
 
 This is a bachelors project at LIU. The goal of the project was to investigate what effect physical playing cards would have on interactivity and player engagement compared to having digital cards.
