@@ -1,4 +1,4 @@
-![An image of the game](/images/big_thumbnail.jpg)
+<img src="/images/big_thumbnail.jpg" width=50% height=50%>
 
 # Digital Cardgame with Physical ArUco-Cards
 
@@ -7,9 +7,9 @@ The game was to be played on a flat laying touchscreen by two competing players,
 
 The project was built using the game engine Unity and OpenCV for reading the ArUco cards seen by the camera. 
 
-![An image of the playing cards](/images/spelkort.png)
+<img src="/images/spelkort.png" width=50% height=50%>
 
-![An image of the calibration screen](/images/kalibrering.png)
+<img src="/images/kalibrering.png" width=50% height=50%>
 
-*[Link to youtube video showing the game](https://youtu.be/-JwLrFs1Ud8?si=ypvmMAF9WvG5yPoF)*
+*[Link to youtube video showing the game](https://youtu.be/-JwLrFs1Ud8?si=ypvmMAF9WvG5yPoF)*  
 [![Watch the video](/images/video_thumbnail.jpg)](https://youtu.be/-JwLrFs1Ud8?si=ypvmMAF9WvG5yPoF)
